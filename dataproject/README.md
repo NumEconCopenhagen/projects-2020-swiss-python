@@ -12,5 +12,7 @@ This **loades multiple time series and one dataset**:
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
 ``install with: conda install geopandas`` ## if not installed before
+
 ``pip install descartes``
+
 ``pip install mapclassify``
