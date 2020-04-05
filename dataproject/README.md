@@ -1,6 +1,6 @@
 # Data analysis project
 
-Our project is titled **Visualization of the Coronavirus Outbreak over Time** and is about loading, cleaning and visualize the coronavirus outbreak in the world.
+Our project is titled **Visualization of the Coronavirus Outbreak over Time** and is about loading and cleaning the coronavirus cases data, and visualize the coronavirus outbreak in the world.
 
 The **results** of the project can be seen from running [PS_Data_Project_Coronavirus.ipynb](PS_Data_Project_Coronavirus.ipynb).
 
