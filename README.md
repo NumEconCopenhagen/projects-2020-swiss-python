@@ -8,12 +8,10 @@ A short description of the files and folders:
 
 - /binder: The folder is used by mybinder.org to setup an interactive version of your repository. For details see this guide.
 
-- / :The structure is as follows: it contains a jupyter notebook where all the results should be presented. The project can be seen from running [inauguralproject.ipynb](inauguralproject.ipynb).
+- /inauguralproject:The structure is as follows: it contains a jupyter notebook where all the results should be presented. The project can be seen from running [inauguralproject.ipynb](inauguralproject.ipynb).
 
 - /dataproject: Same structure as above.
 
 - /modelproject: Same structure as above.
-
-- /examproject: Same structure as above.
 
 - .gitignore: A textfile specifying files and folder that will not be uploaded to github, and will not be tracked by git.
