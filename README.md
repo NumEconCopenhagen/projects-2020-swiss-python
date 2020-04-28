@@ -1,6 +1,6 @@
-Welcome to the NumEconCPH repository from swiss-python
+# Welcome to the NumEconCPH repository from swiss-python
 
-We have provided you with the following repository that contains the required structure for this course. You should not change any folders in the root directory.
+We have provided you with the following repository that contains the required structure for this course. **You should not change any folders in the root directory.**
 
 A short description of the files and folders:
 
