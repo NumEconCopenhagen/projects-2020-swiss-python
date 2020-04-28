@@ -1,6 +1,6 @@
 # Welcome to the NumEconCPH repository from swiss-python
 
-A short description of the files and folders:
+A short description of the projects:
 
 - /inauguralproject:The structure is as follows: it contains a jupyter notebook where all the results are presented. The project can be seen from running [inauguralproject.ipynb](inauguralproject.ipynb). In this project we solved a simple labor-supply model and visulaized the optimal outcome. 
 
