@@ -1,6 +1,6 @@
 # Inaugural project
 
-The **results** of the project can be seen from running [PS 0_ Inaugural_Swiss_Python.ipynb](PS 0_ Inaugural_Swiss_Python.ipynb).
+The **results** of the project can be seen from running [Inaugural_Swiss_Python.ipynb](Inaugural_Swiss_Python.ipynb).
 
 The project 0 / inaugural project was a first python hands-on exercise by solving an economic model and presenting the results.
 
