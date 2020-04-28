@@ -6,6 +6,6 @@ A short description of the files and folders:
 
 - /dataproject: Same structure as above. The project can be seen from running [PS_Data_Project_Coronavirus.ipynb](PS_Data_Project_Coronavirus.ipynb). We loaded, aggregated and visualized the coronavirus cases data provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). 
 
-- /modelproject: Same structure as above. The project can be seen from running. We solved and visualized a standard OLG model. Furthermore, we extended it with a government and looked at the effect of tax and bond financing of the budget. 
+- /modelproject: Same structure as above. The project can be seen from running XY. We solved and visualized a standard OLG model. Furthermore, we extended it with a government and looked at the effect of tax and bond financing of the budget. 
 
 
