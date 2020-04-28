@@ -2,7 +2,7 @@
 
 A short description of the projects:
 
-- /inauguralproject:The structure is as follows: it contains a jupyter notebook where all the results are presented. The project can be seen from running [Inaugural_Swiss_Python.ipynb](Inaugural_Swiss_Python.ipynb). In this project we solved a simple labor-supply model and visulaized the optimal outcome. 
+- /inauguralproject:The structure is as follows: it contains a jupyter notebook where all the results are presented. The project can be seen from running [Inaugural_Swiss_Python.ipynb](inauguralproject/Inaugural_Swiss_Python.ipynb). In this project we solved a simple labor-supply model and visulaized the optimal outcome. 
 
 - /dataproject: Same structure as above. The project can be seen from running [PS_Data_Project_Coronavirus.ipynb](PS_Data_Project_Coronavirus.ipynb). We loaded, aggregated and visualized the coronavirus cases data provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). 
 
